@@ -1,9 +1,9 @@
- ### Hi there 
+ ### Olá, eu sou Vitor 👋
  
-- Systems analysis and development
- - Estudando Python 
- - Em busca de oportunidades 
- - Pronouns: ele/dele
+- Systems analysis and development 🧠
+ - Estudando Python 🐍
+ - Em busca de oportunidades 🧩
+ 
 
 <div align="center">
   <a https://github.com/Naftali21 >
