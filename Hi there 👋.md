@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python"/>
+
 </p>
 
 <h2 align="center">Reach me out on <img src="https://user-images.githubusercontent.com/74413175/152631595-4d4699e5-ceb1-4e87-a949-5c847b81d9a2.gif" width="50"></h2>
@@ -41,8 +43,8 @@
 <a href="https://www.linkedin.com/in/vitor-luiz-13640421b/">
  <img src="https://img.shields.io/badge/-Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-luiz-13640421b/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-mudar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <a href="https://www.instagram.com/vitin.40/">
+ <img src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitin.40/"/>
 </a>
 </p>
 
